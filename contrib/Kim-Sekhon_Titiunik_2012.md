@@ -69,8 +69,10 @@ Other recognizable signatures:
 ## 6. Test cases
 
 **SHOULD trigger:** Eggers, Andrew C., and Jens Hainmueller. 2009. “MPs for Sale? Returns to Office in Postwar British Politics.” American Political Science Review 103(4): 513–533. doi:10.1017/S0003055409990190.
+
 This study pools close winners and close losers from seven general elections between 1950 and 1970 into one RD estimate per party (Table 4, p. 524), with neither election-specific estimates nor the number of bare winners and bare losers in each election, so (e) does not pass. (c) is also applied but passed; winners are classified by their first winning race and losers by their best losing race (p. 523, n. 25), but the authors defend this with balance tests (Table 6, p. 527). Despite this, the reviewer should ask for the required assumption rather than assert bias.
 
 **Should NOT trigger:** Erikson, Robert S., and Laura Stoker. 2011. “Caught in the Draft: The Effects of Vietnam Draft Lottery Status on Political Attitudes.” American Political Science Review 105(2): 221–237. doi:10.1017/S0003055411000141.
+
 Near-miss: the paper presents itself as a natural experiment with a highly restricted sample, so an agent may apply (c). However it compares men with low and high numbers from a single lottery for men born 1944–1950 (p. 222, n. 3), so (a) and (d) is applied but passed.
 Its restrictions use pre-lottery information: “college bound” was defined from 1965, and 1973 educational attainment was intentionally rejected for being endogenous (p. 225). The only post-lottery split by military service is acknowledged for self-selection and is defended with a sensitivity analysis and TSLS (pp. 228–229).
